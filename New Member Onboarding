@@ -4,8 +4,11 @@ How to add a team member to Jibble.
 - Go to Jibble and click on the Teams on the navigation bar on the left
 - Click Add team member and fill out the form. 
 - If the new member has given an email they should receive an email from Jibble on how to set up their account. 
-- If the new member has not given an email, then fill out the form but omit their email and follow this help guide https://help.jibble.io/en/articles/4029985-how-do-i-invite-a-member-that-i-already-created-in-my-team It is significantly better that the new member provide an email.
-Note: if multiple team members can be added you can import it from a CSV file as well documentation is here: https://help.jibble.io/en/articles/1012483-how-do-i-import-my-staff-members
+- If the new member has not given an email, then fill out the form but omit their email and follow this help guide 
+https://help.jibble.io/en/articles/4029985-how-do-i-invite-a-member-that-i-already-created-in-my-team It is 
+significantly better that the new member provide an email.
+Note: if multiple team members can be added you can import it from a CSV file as well documentation is here: 
+https://help.jibble.io/en/articles/1012483-how-do-i-import-my-staff-members
 
 
 How to add a team member to Slack
@@ -21,7 +24,11 @@ Slack DM Template:
 
 Hi, I'm Zach an Operations Intern at Lunatic Labs along with Tate if there is any issues you need resolved while working on projects just let me know. 
 
-Some house keeping stuff. Make sure you get signed up to Jibble, our time keeping app, you should have recieved an email inviting you to the project. If you didn't receive an email definitely let me know and I can get you sorted out. I highly recommend installing Jibble on your phone as well. On iOS the app is called Jibble Tracker and has an orange hourglass with a white background as the logo. When you want to clock the second icon on the bottom nav bar of the app will say in/out. Navigate there and you can select in or out the app will take a selfie and ask for you to confirm. Note that you can't change the time stamp on the app but can do so on the web page.
+Some house keeping stuff. Make sure you get signed up to Jibble, our time keeping app, you should have recieved an email inviting you to the project. 
+If you didn't receive an email definitely let me know and I can get you sorted out. I highly recommend installing Jibble on your phone as well. On iOS 
+the app is called Jibble Tracker and has an orange hourglass with a white background as the logo. When you want to clock the second icon on the bottom 
+nav bar of the app will say in/out. Navigate there and you can select in or out the app will take a selfie and ask for you to confirm. Note that you 
+can't change the time stamp on the app but can do so on the web page.
 
 How to add a team member to Github
 - Todo
