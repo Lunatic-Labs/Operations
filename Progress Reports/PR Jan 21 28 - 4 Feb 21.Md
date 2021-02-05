@@ -35,11 +35,14 @@ I am not getting verified by Google Developer.
 
 ## Zach Jacobs
 
-1. What progress have I made this week?
+1. What progress have I made this week? Learned more about AWS, specifically about dynamodb. 
+We then changed back to google cloud and I got the eightball website to work on cloud compute.
 
-1. What is my plan for the week ahead?
+1. What is my plan for the week ahead? Going to work on database stuff.
 
-1. What are the obstacles hindering me?
+1. What are the obstacles hindering me? Cloud compute had some security issues working on firefox. 
+Payment models have me worried about database stuff since my personal bank account is connected
+to the services.
 
 ### ADMIN NOTES
 
