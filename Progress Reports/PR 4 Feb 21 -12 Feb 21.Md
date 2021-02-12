@@ -4,7 +4,7 @@
 
 # Summary
 
-[Ops Manager] 
+[Ops Manager]
 
 # Operation Interns
 
@@ -12,14 +12,29 @@
 
 1. What progress have I made this week?
 
-    
+* In my effort to make up for a bad week last week, there was miscommunication with regard to meeting times and who was doing what on the project.  Thanks to a great team helping me out, it appears that these are mostly resolved.  (Mostly instead of definitely because I don't like to claim success too soon.)
+
+* Installed MySQL Workbench.
+
+* I've been meeting with my assigned groups, and they both are making great progress.
+
 1. What is my plan for the week ahead?
 
-    
+* I will continue meeting with my assigned groups and answering questions.
+
+* Add my times to the calendar.
+
+* Review latest changes to the eightball project.
 
 1. What are the obstacles hindering me?
 
-   
+* Currently mostly psychological, as I'm worried I've not made a good impression on the group so far.
+
+* Please understand that, prior to this semester, I have literally not done anything school or work related **for an entire year and a half**.  I've finished all school work except for the internship, and I couldn't get hired anywhere cause of lack of experience and no degree (and then Covid), so I literally had nothing to do.  When forced to go through that, bad habits will quite certainly develop that take time to undo.  Add this to disabilities that make things take an average of 3x longer than others can do the same thing in, and I'm left way behind and falling even further.
+
+* I'm beginning to wonder if this is even the right field for me, which is rather terrifying considering I've spent 21 semesters in college already, and I'm literally one course away from graduating with a degree in this field with no training in anything else (and still no job lined up for after this semester).
+
+* I'm not directing this at anyone in particular.  I'm just worried I'll be "that guy" everyone's glad to be rid of.
 
 ## Victoria Ludwig
 
@@ -46,5 +61,5 @@ Currently, since the project is complete, nothing as of now.
 
 ### ADMIN NOTES
 
-- 
+-
 
