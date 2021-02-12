@@ -55,9 +55,15 @@ Currently, since the project is complete, nothing as of now.
 
 1. What progress have I made this week?
 
+Continued and finished work on the Magic Eightball challenge by working with Victoria and Eddie. Some of my contribution was in creating the how-tos of the document including: creating a new project, creating a new VM, and creating a new database. I also spun up a database and VM that was used in completing the project.
+
 1. What is my plan for the week ahead?
 
+I intend on providing aid to students neededing to use Google Cloud services and any other issues that may arise.
+
 1. What are the obstacles hindering me?
+
+Google Shell does not work very well with Firefox so I had to switch to Google Chrome. Other than that there are no current roadblocks.
 
 ### ADMIN NOTES
 
