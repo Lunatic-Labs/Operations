@@ -4,7 +4,7 @@
 
 # Summary
 
-[Ops Manager]
+This week the team completed the Magic Eight Ball Ops Challenge adding database functionality to their front end site. They hosted the website on a GCP cloud engine while connecting to a mysql database hosted on Cloud SQL. During Thrusday's company meeting a brief overview of the Google Cloud Service document was presented to the student developers to get them onboarded with the use of the Google Cloud Platform. Among the lessons learned during this Ops challenge was a realization about the team's workflow. Up until this point the team had been operating under a self-paced structure that only met outside company meetings once a week to check on progress and delegate new tasks. This structure proved to be sub optimal for our team makeup as it was discovered that the team made the most strides towards the intended goals when collaborating simultaneously as opposed to trying to combine individual modular efforts. The plan moving forward is to meet as a team on the days we do not have company meetings to spend at least an hour on collborative work and assisting one another with personal roadblocks and integration of individual progress. In the coming week the team will begin a new Ops Challenge where they will build a comparative web presence table that illustrates the common elements shared between top software companies inside the U.S. This will serve as a reference model when building the web architecture of Lunatic Labs.  
 
 # Operation Interns
 
@@ -67,5 +67,5 @@ Google Shell does not work very well with Firefox so I had to switch to Google C
 
 ### ADMIN NOTES
 
--
+-None at this time
 
