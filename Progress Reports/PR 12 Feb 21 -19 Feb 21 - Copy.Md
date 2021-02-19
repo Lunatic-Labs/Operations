@@ -4,7 +4,7 @@
 
 # Summary
 
-[Ops Mang]  
+[Ops Mang]
 
 # Operation Interns
 
@@ -12,15 +12,25 @@
 
 1. What progress have I made this week?
 
+* My city is Portland, so I'm researching companies in their "Silicon Forest."  Did NVidia.
 
+* Looked over magic8ball code though haven't added anything yet.
+
+* Helping groups with their issues, which seem to be few so far.
 
 1. What is my plan for the week ahead?
 
+* Find two more smaller companies than NVidia.
 
+* Help group members as needed.
+
+* Work toward getting site set up on GCS w/ db.
 
 1. What are the obstacles hindering me?
 
+* Time and stress management, but that's really a given.
 
+* Snowstorm has slowed progress in many things requiring electricity/internet.
 
 ## Victoria Ludwig
 
@@ -34,7 +44,7 @@ I intend to link my Magic Eighball project to Google Cloud Services in order to 
 
 1. What are the obstacles hindering me?
 
-I was at first unable to understand and use the Linux command line in Google Cloud, but I am able to proficently work with it now. 
+I was at first unable to understand and use the Linux command line in Google Cloud, but I am able to proficently work with it now.
 
 
 ## Zach Jacobs
@@ -43,7 +53,7 @@ I was at first unable to understand and use the Linux command line in Google Clo
 
 Worked at researching various companies in Boston, MA to see what their web presence is like I ended up settling with Toast and Acquia. I filled out the tool stack spreadsheet for both of them.
 
-1. What is my plan for the week ahead?  
+1. What is my plan for the week ahead?
 
 I intend to find one more company to research. Search criteria will be more focused on smaller scale companies. We may also work on SSL certification on the previous ops challenge.
 
