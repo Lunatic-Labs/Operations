@@ -26,15 +26,15 @@
 
 1. What progress have I made this week?
 
-
+I was able to research various tech companies in Nashville and determine what kinds of technologies they are using on their sites. This information will be important in determining what type of technologies we should use on our Lunatic Labs website.
 
 1. What is my plan for the week ahead?
 
-
+I intend to link my Magic Eighball project to Google Cloud Services in order to apply SSL certification to the project. I also will work with students with any help they need, especially with Google Cloud Servies.
 
 1. What are the obstacles hindering me?
 
-
+I was at first unable to understand and use the Linux command line in Google Cloud, but I am able to proficently work with it now. 
 
 
 ## Zach Jacobs
