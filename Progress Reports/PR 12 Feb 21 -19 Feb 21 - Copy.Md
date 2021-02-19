@@ -43,10 +43,13 @@ I was at first unable to understand and use the Linux command line in Google Clo
 
 Worked at researching various companies in Boston, MA to see what their web presence is like I ended up settling with Toast and Acquia. I filled out the tool stack spreadsheet for both of them.
 
-1. What is my plan for the week ahead?
+1. What is my plan for the week ahead?  
+
 I intend to find one more company to research. Search criteria will be more focused on smaller scale companies. We may also work on SSL certification on the previous ops challenge.
 
 1. What are the obstacles hindering me?
+
+
 There are no current obstacles.
 
 
