@@ -26,15 +26,15 @@
 
 1. What progress have I made this week?
 
-
+I completed my portion of the feature diagram. This time we added some more information about the pages on the various sites, such as how to get to the contact page or where their google maps location can be found.
 
 1. What is my plan for the week ahead?
 
-
+I intend to finish up the SSL verification on the magic eightball project.
 
 1. What are the obstacles hindering me?
 
-
+MySQL and PHP are giving me a hard time, but the issue is very solvable.
 
 
 ## Zach Jacobs
