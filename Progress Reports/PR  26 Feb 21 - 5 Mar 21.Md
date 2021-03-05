@@ -1,10 +1,10 @@
 # Progress Report
 
-**19 Feb 2021 - 26 Feb 2021**
+**26 Feb 2021 - 5 Mar 2021**
 
 # Summary
 
-[Ops Mang]
+This week the operations team dug deeper into each featrue within our web presence road map to add details about what each of those features contained and how they were presented on their respective sites. We discussed ideas for breathing new life into the content for company meetings and analyzed our individual projections to meet internship hours requirements. We also discussed building realations with a local startup by helping them evaluate their campus security app. In the coming week those who opt into the app trial will be testing its services and providing feedback while the rest of the team iterates on our next Operations Challenge. Based on feedback from the advisors the next Operations Challenge will either be a concrete deliverable that showcases the knowledge gained by the interns during their research on SSL and site security or a tutorial led by the Ops team on project source control.
 
 # Operation Interns
 
