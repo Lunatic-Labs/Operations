@@ -41,14 +41,15 @@ MySQL and PHP are giving me a hard time, but the issue is very solvable.
 
 1. What progress have I made this week?
 
-
+Worked on finishing the Comparative feature diagram. Giving a description of various features found on the sites. Assisted the Assylum studios team with some storage issues with Github.
 
 1. What is my plan for the week ahead?
 
+Research and work on getting SSL certification working on the eightball project.
 
 1. What are the obstacles hindering me?
 
-
+No current obstalces
 
 ### ADMIN NOTES
 
