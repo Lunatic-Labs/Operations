@@ -4,7 +4,7 @@
 
 # Summary
 
-[Ops Mang]  
+[Ops Mang]
 
 # Operation Interns
 
@@ -12,13 +12,19 @@
 
 1. What progress have I made this week?
 
+Worked more on the feature diagrams.  Went into more detail about each feature.
 
+Scheduled meeting to work on internship course details.
 
 1. What is my plan for the week ahead?
 
+Continue working on SSL.
 
+Assist groups in their obstacles.
 
 1. What are the obstacles hindering me?
+
+There was a big extracurricular personal development program I was a part of this past month that is now over (and I paid lots of money for), so I should have more free time now.  (So I guess this was more of a past obstacle than a current one)
 
 
 
