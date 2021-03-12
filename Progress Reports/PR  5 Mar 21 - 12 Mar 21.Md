@@ -28,12 +28,15 @@ This week the operations team dug deeper into each featrue within our web presen
 
 1. What progress have I made this week?
 
+I was able to apply SSL certification to a website I created and hosted using GCP. (vludwig.com) I created a Google Doc showcasing how I did it, in hopes the students will have ease in completing this task for their websites.
 
 1. What is my plan for the week ahead?
 
+I will focus on learning the basics of git so that my knowledge can be used in a class lesson pertaining to it.
 
 1. What are the obstacles hindering me?
 
+No obstacles at the moment, other than the lack of time to work alongside other class arrangements.
 
 
 ## Zach Jacobs
