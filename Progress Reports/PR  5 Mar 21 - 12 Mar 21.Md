@@ -43,13 +43,15 @@ No obstacles at the moment, other than the lack of time to work alongside other 
 
 1. What progress have I made this week?
 
+Began researching branching in Git, looked over the SSL documentation. 
 
 1. What is my plan for the week ahead?
 
+Continue researching branching in Git and create lesson plans for teaching the students about Git.
 
 1. What are the obstacles hindering me?
 
-
+No current obstacles.
 
 ### ADMIN NOTES
 
