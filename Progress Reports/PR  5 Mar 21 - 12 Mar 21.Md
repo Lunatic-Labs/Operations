@@ -4,7 +4,7 @@
 
 # Summary
 
-This week the operations team dug deeper into each featrue within our web presence road map to add details about what each of those features contained and how they were presented on their respective sites. We discussed ideas for breathing new life into the content for company meetings and analyzed our individual projections to meet internship hours requirements. We also discussed building realations with a local startup by helping them evaluate their campus security app. In the coming week those who opt into the app trial will be testing its services and providing feedback while the rest of the team iterates on our next Operations Challenge. Based on feedback from the advisors the next Operations Challenge will either be a concrete deliverable that showcases the knowledge gained by the interns during their research on SSL and site security or a tutorial led by the Ops team on project source control.
+This week the operations team successfully added SSL certificaiton to a website hosted on Google Cloud. Upon completion of this objective a document was drafted detailing how to replicate the results. The team is currently in the process of testing the how-to doc to ensure no steps in the process were overlooked. After the discussion of ways in which we could breathe more life into the content of our company meetings the team suggested a source control day, specifically detailing the use of GitHub. In response, the team began an exploratory dive into the Git documentation to start developing an interactive exercise showcasing a broadscope, high-level view of Github's functionality. Once the company meetings detailing the definition of developer roles conclude the team plans to run the student developers through the source control exercise.
 
 # Operation Interns
 
@@ -12,17 +12,15 @@ This week the operations team dug deeper into each featrue within our web presen
 
 1. What progress have I made this week?
 
+Failed to Report  
 
+2. What is my plan for the week ahead?
 
-1. What is my plan for the week ahead?
+Failed to Report
 
+3. What are the obstacles hindering me?
 
-
-
-
-1. What are the obstacles hindering me?
-
-
+Failed to Report
 
 ## Victoria Ludwig
 
@@ -30,11 +28,11 @@ This week the operations team dug deeper into each featrue within our web presen
 
 I was able to apply SSL certification to a website I created and hosted using GCP. (vludwig.com) I created a Google Doc showcasing how I did it, in hopes the students will have ease in completing this task for their websites.
 
-1. What is my plan for the week ahead?
+2. What is my plan for the week ahead?
 
 I will focus on learning the basics of git so that my knowledge can be used in a class lesson pertaining to it.
 
-1. What are the obstacles hindering me?
+3. What are the obstacles hindering me?
 
 No obstacles at the moment, other than the lack of time to work alongside other class arrangements.
 
@@ -45,11 +43,11 @@ No obstacles at the moment, other than the lack of time to work alongside other 
 
 Began researching branching in Git, looked over the SSL documentation. 
 
-1. What is my plan for the week ahead?
+2. What is my plan for the week ahead?
 
 Continue researching branching in Git and create lesson plans for teaching the students about Git.
 
-1. What are the obstacles hindering me?
+3. What are the obstacles hindering me?
 
 No current obstacles.
 
