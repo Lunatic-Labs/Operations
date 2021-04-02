@@ -29,6 +29,7 @@
 1. What progress have I made this week?
 
 I presented information to the students in class about using git, specifically on the command line. I believe the students learned a few things from it, based on student response from the end of class.
+I need about 40 hours more, which means I will need to be putting in a bit more than 10 hours a week to complete the internship requirement.
 
 1. What is my plan for the week ahead?
 
