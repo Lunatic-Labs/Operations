@@ -45,13 +45,15 @@ None at this time.
 
 1. What progress have I made this week?
 
+Presented the git slideshow, my side focused on branching. It seemed to be productive for the students. Started preliminary work on the website with focus on the home page and contact page.
 
 1. What is my plan for the week ahead?
 
+Begin full production of the website, with main focus being the homepage and contact page.
 
 1. What are the obstacles hindering me?
 
-
+No current obstacles.
 
 ### ADMIN NOTES
 
