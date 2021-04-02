@@ -12,17 +12,19 @@
 
 1. What progress have I made this week?
 
-
+Contributed to the git presentation and worked on the blog page for the website.
 
 1. What is my plan for the week ahead?
 
+Make sure the direction I'm going on the blog page is congruent with the rest of the design.
 
+Attempting to compile and run code for one of the projects on my Windows machine to assess bugs.
 
-
+Review of git principles for video.
 
 1. What are the obstacles hindering me?
 
-
+My Internship course structure is a bit different because of registration issues, so navigating that and graduation is stressful.
 
 ## Victoria Ludwig
 
