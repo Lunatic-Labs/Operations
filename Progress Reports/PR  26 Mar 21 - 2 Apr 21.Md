@@ -4,7 +4,7 @@
 
 # Summary
 
-[Ops Manager]
+This week the team presented their lecture and interactive demo on Git Source Control to the student developers. They also began work on converting the template website into the design dictated by the comparative feature diagram. As we move into the month of April we will be focusing on delivering a minimum viable product for the website and drafting end of semester spin down procedures for both the student developer projects and internally as the operations team. 
 
 # Operation Interns
 
