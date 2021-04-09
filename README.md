@@ -1,2 +1,2 @@
 # Operations
-These documents decribe Lunatic Labs processes and procedures for various activities and contain resources for aiding the student developers.
+These documents decribe standard operating procedures for Lunatic Labs. This repo also contains resources for aiding the student developers.
