@@ -23,9 +23,12 @@
 
 1. What progress have I made this week?
 
+I have started to compile all the information needed for the website from the students. This includes personal student information, project information, and project images to showcase.
+
 
 1. What is my plan for the week ahead?
 
+I plan to consolidate the information received and have it ready for our team to put it together in the coming weeks.
 
 1. What are the obstacles hindering me?
 
