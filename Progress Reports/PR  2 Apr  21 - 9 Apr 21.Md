@@ -50,8 +50,6 @@ Next week will likely be doing some more website stuff, such as formating. It wi
 
 No current obstacles
 
-No current obstacles.
-
 ### ADMIN NOTES
 
 -None at this time
