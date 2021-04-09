@@ -40,12 +40,15 @@ None at this time.
 
 1. What progress have I made this week?
 
+Worked on creating the website. Focus on the home page. Recorded the git lecture for future interns to reference.
 
-1. What is my plan for the week ahead?
+2. What is my plan for the week ahead?
 
+Next week will likely be doing some more website stuff, such as formating. It will be a shorter week due to spring break.
 
+3. What are the obstacles hindering me?
 
-1. What are the obstacles hindering me?
+No current obstacles
 
 No current obstacles.
 
